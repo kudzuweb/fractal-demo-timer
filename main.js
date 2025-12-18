@@ -8,7 +8,7 @@ function createWindow() {
   const { width: screenWidth } = primaryDisplay.workAreaSize;
 
   const windowWidth = 220;
-  const windowHeight = 100;
+  const windowHeight = 120;
   const margin = 20;
 
   mainWindow = new BrowserWindow({
